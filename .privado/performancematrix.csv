@@ -1,0 +1,122 @@
+DateTime, MainStage, SubStage, MetaData, CPU (%), Used Memory (MB), Max Heap (MB)
+Fri Jul 05 00:27:37 IST 2024, <not set>, <not set>, <not set>, 0.00, 49.01, 4294.97
+Fri Jul 05 00:27:37 IST 2024, Language detection, <not set>, Started, 19.65, 52.11, 4294.97
+Fri Jul 05 00:27:37 IST 2024, Language detection, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:37 IST 2024, Processing rules, <not set>, Started, 16.98, 54.20, 4294.97
+Fri Jul 05 00:27:38 IST 2024, Processing rules, <not set>, <not set>, 65.27, 88.31, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Processing rules, <not set>, Done, 65.27, 88.31, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, <not set>, Started, 69.09, 55.80, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.frontend.MetaDataPass, Started, 19.42, 71.53, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.frontend.MetaDataPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.rubysrc2cpg.passes.ConfigFileCreationPass, Started, 20.35, 72.58, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.rubysrc2cpg.passes.ConfigFileCreationPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, <not set>, <not set>, 26.34, 82.82, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.rubysrc2cpg.deprecated.passes.AstCreationPass, Started, 70.14, 91.61, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.rubysrc2cpg.deprecated.passes.AstCreationPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, Default overlays, Started, 43.42, 101.45, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.FileCreationPass, Started, 22.11, 102.99, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.FileCreationPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.NamespaceCreator, Started, 19.43, 102.99, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.NamespaceCreator, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeDeclStubCreator, Started, 23.62, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeDeclStubCreator, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.MethodStubCreator, Started, 43.87, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.MethodStubCreator, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.ParameterIndexCompatPass, Started, 27.52, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.ParameterIndexCompatPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.MethodDecoratorPass, Started, 14.20, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.MethodDecoratorPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.AstLinkerPass, Started, 9.53, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.AstLinkerPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.ContainsEdgePass, Started, 22.84, 104.04, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.ContainsEdgePass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeRefPass, Started, 47.83, 105.02, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeRefPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeEvalPass, Started, 49.99, 105.02, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.base.TypeEvalPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Started, 26.05, 106.07, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, ai.privado.languageEngine.ruby.processor.RubyProcessor$RubyCfgCreationPass, Started, 18.29, 106.07, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, ai.privado.languageEngine.ruby.processor.RubyProcessor$RubyCfgCreationPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.controlflow.cfgdominator.CfgDominatorPass, Started, 54.99, 107.53, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.controlflow.cfgdominator.CfgDominatorPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.controlflow.codepencegraph.CdgPass, Started, 67.28, 110.50, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.controlflow.codepencegraph.CdgPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Started, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.TypeHierarchyPass, Started, 40.58, 110.84, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.TypeHierarchyPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.AliasLinkerPass, Started, 53.98, 110.84, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.AliasLinkerPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.FieldAccessLinkerPass, Started, 12.97, 111.89, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.typerelations.FieldAccessLinkerPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Started, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.MethodRefLinker, Started, 27.69, 111.89, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.MethodRefLinker, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.StaticCallLinker, Started, 33.85, 111.89, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.StaticCallLinker, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.DynamicCallLinker, Started, 23.05, 111.89, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.joern.x2cpg.passes.callgraph.DynamicCallLinker, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Started, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, io.shiftleft.semanticcpg.Overlays$$anon$1, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Base source processing, <not set>, Done, 26.34, 82.82, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Download Dependency, <not set>, Started, 16.96, 111.89, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Download Dependency, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, overriden overlay Processing, <not set>, Started, 14.15, 114.01, 4294.97
+Fri Jul 05 00:27:39 IST 2024, overriden overlay Processing, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, <not set>, Started, 17.20, 114.52, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.MethodFullNamePassForRORBuiltIn, Started, 20.16, 116.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.MethodFullNamePassForRORBuiltIn, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.utility.PropertyParserPass, Started, 47.76, 116.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.utility.PropertyParserPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.config.RubyPropertyLinkerPass, Started, 21.51, 116.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.config.RubyPropertyLinkerPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.RubyExternalTypesPass, Started, 33.42, 116.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, ai.privado.languageEngine.ruby.passes.RubyExternalTypesPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Privado source passes, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, <not set>, Started, 20.45, 116.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, io.joern.dataflowengineoss.passes.reachingdef.ReachingDefPass, Started, 24.31, 117.67, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, io.joern.dataflowengineoss.passes.reachingdef.ReachingDefPass, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, io.shiftleft.semanticcpg.Overlays$$anon$1, Started, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, io.shiftleft.semanticcpg.Overlays$$anon$1, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Run oss data flow, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., <not set>, Started, 63.77, 37.18, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.tagger.source.LiteralTagger, Started, 21.49, 38.15, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.tagger.source.LiteralTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.RubyLiteralTagger, Started, 57.02, 39.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.RubyLiteralTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.RubyLiteralDerivedTagger, Started, 53.91, 39.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.RubyLiteralDerivedTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.IdentifierTagger, Started, 27.70, 39.62, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.IdentifierTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.tagger.source.SqlQueryTagger, Started, 65.88, 41.11, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.tagger.source.SqlQueryTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.IdentifierDerivedTagger, Started, 57.69, 42.61, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.source.IdentifierDerivedTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.RegularSinkTagger, Started, 19.40, 42.61, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.RegularSinkTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.APITagger, Started, 35.51, 43.14, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.APITagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.collection.CollectionTagger, Started, 21.47, 44.25, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.collection.CollectionTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.config.RubyDBConfigTagger, Started, 33.18, 44.95, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.config.RubyDBConfigTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.InheritMethodTagger, Started, 26.39, 44.95, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.InheritMethodTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.LeakageTagger, Started, 27.33, 45.13, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.sink.LeakageTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.schema.RubyMongoSchemaTagger, Started, 36.07, 46.11, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.schema.RubyMongoSchemaTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.schema.RubyMongoSchemaMapper, Started, 10.45, 46.11, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.schema.RubyMongoSchemaMapper, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.monolith.MonolithTagger, Started, 26.50, 46.11, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., ai.privado.languageEngine.ruby.tagger.monolith.MonolithTagger, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Tagging ..., <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Finding data flows ..., <not set>, Started, 12.32, 46.11, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Finding data flows ..., Deduplicating flows, Started, 23.75, 46.96, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Finding data flows ..., Deduplicating flows, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Finding data flows ..., <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Brewing result, <not set>, Started, 21.34, 46.96, 4294.97
+Fri Jul 05 00:27:39 IST 2024, Brewing result, <not set>, Done, 0.00, 0.00, 4294.97
+Fri Jul 05 00:27:39 IST 2024, All processing done, Total Time taken, 2684 ms - 00h:00m:02s:684ms, 30.54, 73.38, 4294.97

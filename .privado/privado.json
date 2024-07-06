@@ -1,0 +1,53 @@
+{
+  "RepoConfigMetaData" : [
+  ],
+  "monolithJsonPath" : [
+  ],
+  "language" : "ruby",
+  "privadoLanguageEngineVersion" : "0.1.13",
+  "privadoMainVersion" : "Not Detected",
+  "gitMetadata" : {
+    
+  },
+  "violations" : [
+  ],
+  "PropertyFileSkippedByDirCount" : {
+    "currentFilesInDirLimit" : "10",
+    "skipList" : [
+    ]
+  },
+  "androidPermissions" : [
+  ],
+  "privadoCoreVersion" : "Not Detected",
+  "sinks" : [
+  ],
+  "privadoCLIVersion" : "Not Detected",
+  "collections" : [
+  ],
+  "repoName" : "demo",
+  "processing" : [
+  ],
+  "dataFlow" : {
+    "storages" : [
+    ],
+    "internal_apis" : [
+    ],
+    "leakages" : [
+    ],
+    "third_parties" : [
+    ]
+  },
+  "probableSinks" : [
+  ],
+  "createdAt" : 1720119459794,
+  "sinkProcessing" : [
+  ],
+  "PropertyFileSkippedBySize" : {
+    "currentFileSizeLimit" : "5",
+    "skipLists" : [
+    ]
+  },
+  "localScanPath" : "/Users/karanbatavia/Privado/repos/multiple/demo",
+  "sources" : [
+  ]
+}

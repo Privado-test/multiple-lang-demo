@@ -1,0 +1,67 @@
+{
+    "directoryName": "demo",
+    "directoryPath": "/Users/karanbatavia/Privado/repos/multiple/demo",
+    "size": 38311,
+    "sizeInString": "37.41KB",
+    "extensions": [
+        {
+            "name": ".rb",
+            "count": 40,
+            "size": 0,
+            "sizeInString": "0 bytes"
+        },
+        {
+            "name": ".py",
+            "count": 21,
+            "size": 0,
+            "sizeInString": "0 bytes"
+        },
+        {
+            "name": ".json",
+            "count": 3,
+            "size": 2715,
+            "sizeInString": "2.65KB"
+        },
+        {
+            "name": ".bin",
+            "count": 1,
+            "size": 20480,
+            "sizeInString": "20.00KB"
+        },
+        {
+            "name": ".csv",
+            "count": 1,
+            "size": 15116,
+            "sizeInString": "14.76KB"
+        }
+    ],
+    "subDirectories": [
+        {
+            "directoryName": ".privado",
+            "directoryPath": "/Users/karanbatavia/Privado/repos/multiple/demo/.privado",
+            "size": 38311,
+            "sizeInString": "37.41KB",
+            "extensions": [
+                {
+                    "name": ".json",
+                    "count": 3,
+                    "size": 2715,
+                    "sizeInString": "2.65KB"
+                },
+                {
+                    "name": ".bin",
+                    "count": 1,
+                    "size": 20480,
+                    "sizeInString": "20.00KB"
+                },
+                {
+                    "name": ".csv",
+                    "count": 1,
+                    "size": 15116,
+                    "sizeInString": "14.76KB"
+                }
+            ],
+            "subDirectories": []
+        }
+    ]
+}
